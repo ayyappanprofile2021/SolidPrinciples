@@ -1,0 +1,15 @@
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\bin\Debug\net6.0\SOLIDPrinciples-Examples.exe
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\bin\Debug\net6.0\SOLIDPrinciples-Examples.deps.json
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\bin\Debug\net6.0\SOLIDPrinciples-Examples.runtimeconfig.json
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\bin\Debug\net6.0\SOLIDPrinciples-Examples.dll
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\bin\Debug\net6.0\SOLIDPrinciples-Examples.pdb
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\SOLIDPrinciples-Examples.csproj.AssemblyReference.cache
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\SOLIDPrinciples-Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\SOLIDPrinciples-Examples.AssemblyInfoInputs.cache
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\SOLIDPrinciples-Examples.AssemblyInfo.cs
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\SOLIDPrinciples-Examples.csproj.CoreCompileInputs.cache
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\SOLIDPrinciples-Examples.dll
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\refint\SOLIDPrinciples-Examples.dll
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\SOLIDPrinciples-Examples.pdb
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\SOLIDPrinciples-Examples.genruntimeconfig.cache
+C:\Ayyappan\Learnings\SolidPrinciples\SolidPrinciples\SOLIDPrinciples-Examples\SOLIDPrinciples-Examples\obj\Debug\net6.0\ref\SOLIDPrinciples-Examples.dll
