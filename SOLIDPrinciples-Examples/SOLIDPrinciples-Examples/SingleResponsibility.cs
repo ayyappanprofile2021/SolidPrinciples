@@ -1,17 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http.Headers;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿/*
+     Functionalities of both Journal and Persistence are split in to 2 different
+     classes respecively. so that each of the class will have only one reason to 
+     change.     
+*/
 namespace SOLIDPrinciples_Examples
-{
-     /*
-       Functionalities of both Journal and Persistence are split in to 2 different
-       classes respecively. so that each of the class will have only one reason to 
-       change.     
-     */
+{   
     public class Journal
     {
         private readonly List<string> entries = new List<string>();

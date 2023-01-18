@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Reflection.Metadata;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿/*
+      Combination of filters can be created by extending the Specification 
+      types without changing the filter implementation which was shipped to the user.     
+*/
 namespace SOLIDPrinciples_Examples
 {
     public enum Color
@@ -111,5 +107,6 @@ namespace SOLIDPrinciples_Examples
                     yield return product;            
         }
     }
+    
 
 }
