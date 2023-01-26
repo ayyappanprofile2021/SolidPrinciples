@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ Notification is extended without changing the Notification Manager. 
+*/
+
 namespace SOLIDPrinciples_Examples
 {
     public interface INotification

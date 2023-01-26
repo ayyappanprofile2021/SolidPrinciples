@@ -20,3 +20,11 @@ WriteLine("=====================================================================
 WriteLine("================Liskov Substitution Principle===========================");
 Caller.CallLiskovSubstitution();
 WriteLine("========================================================================");
+
+WriteLine("================Interface Segregation Principle=========================");
+Caller.CallInterfaceSegregation();
+WriteLine("========================================================================");
+
+WriteLine("================Dependency Inversion Principle=========================");
+Caller.CallDependencyInversion();
+WriteLine("========================================================================");

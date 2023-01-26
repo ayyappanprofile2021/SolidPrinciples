@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
@@ -38,20 +39,12 @@ namespace SOLIDPrinciples_Examples
                 WriteLine($"ProductSize: {product.Size}");
             }
         }
-        public static void CallLiskovSubstitution()
-        {
-            Rectangle rectangle = new Rectangle(5, 4);
-            WriteLine(rectangle);
-            Rectangle square = new Square();
-            square.Width = 4;
-            WriteLine(square);
-        }     
-        
+
         public static void CallOpenClosedPrinciple2()
         {
             MainTask mainTask1 = new MainTask();
             Status status = mainTask1.PerformOperation();
-            if(status == Status.Success)
+            if (status == Status.Success)
             {
                 var notifications = new List<INotification>()
                 {
@@ -71,8 +64,36 @@ namespace SOLIDPrinciples_Examples
                 };
                 NotificationManager.SendNotification(notifications, "Exception Occurred!");
             }
-                
-            
+        }
+        public static void CallLiskovSubstitution()
+        {
+            Rectangle rectangle = new Rectangle(5, 4);
+            WriteLine(rectangle);
+            Rectangle square = new Square();
+            square.Width = 4;
+            WriteLine(square);
+        }
+
+        public static void CallInterfaceSegregation()
+        {
+            Document d = new Document();    
+            //using old printer
+            OldPrinter oldPrinter = new OldPrinter();
+            oldPrinter.Print(d);
+
+            //using new printer
+            NewPrinter newPrinter = new NewPrinter();
+            newPrinter.Print(d);
+            newPrinter.Scan(d);
+            newPrinter.Fax(d);
+        }
+
+        public static void CallDependencyInversion()
+        {
+            Relationship relationship = new Relationship();
+
+            Research research = new Research(relationship);
+            research.ShowRelationsForParent();
         }
     }
 }
